@@ -14,7 +14,7 @@
      }
    },
    "dependencies": {
-     "memcached": "latest",
+     "memcached": "git+https://github.com/3rd-Eden/memcached.git#master",
      "q": "^1.0.1"
    },
    "devDependencies": {
